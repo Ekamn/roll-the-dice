@@ -13,7 +13,6 @@ dice2 = 0
 animateRoll = True
 diceimages1 = Image.open (str(dice1)+".jpg ")
 
-# create File
 def exitGUI():
     window.destroy()  # Closes main window
 
